@@ -8,7 +8,7 @@ import org.sikuli.script.Pattern;
 import org.sikuli.script.Screen;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-//pull back to pro
+//pull back using gitbash
 public class prac {
 
 	public static void main(String[] args) throws FindFailed {
