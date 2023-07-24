@@ -8,7 +8,7 @@ import org.sikuli.script.Pattern;
 import org.sikuli.script.Screen;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-//push multiple time to github
+//push multiple times to github
 public class prac {
 
 	public static void main(String[] args) throws FindFailed {
